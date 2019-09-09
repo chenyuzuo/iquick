@@ -1,4 +1,4 @@
-#Android Studio Mac版快捷键
+# Android Studio Mac版快捷键
 Mac上Android Studio 快捷键位置：左上角Android Studio->preferences->keymap,我这里使用的默认的Mac OS X 10.5+，选择不同的类型对应快捷键不一样。
 ![preferences](https://github.com/chenyuzuo/iquick/tree/master/images/androidstudio_keymap.png)
 ![keymap](https://github.com/chenyuzuo/iquick/tree/master/images/androidstudio_preferences.png)
